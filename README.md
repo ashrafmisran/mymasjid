@@ -1,2 +1,2 @@
 # mymasjid
- MyMasjid using Laracel
+ MyMasjid using Laravel
